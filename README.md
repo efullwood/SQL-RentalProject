@@ -1,1 +1,1 @@
-This project involves creating a database for a fictional instrument rental company, then querying the data using SQL. I'm providing the word document with the assignment, the SQL EER diagram, and the code with the queries.
+This project involves creating a database for a fictional instrument rental company, then querying the data using SQL. I'm providing a pdf document with the assignment, the SQL EER diagram, and the code with the queries.
